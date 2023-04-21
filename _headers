@@ -4,4 +4,4 @@
   Content-Security-Policy: default-src 'self'
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer 
-  Permissions-Policy: picture-in-picture=*
+  Permissions-Policy: autoplay=*
